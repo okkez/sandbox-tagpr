@@ -3,6 +3,6 @@ name: release
 runs:
   using: "composite"
   steps:
-    - shell: bash
-      name: release from actions
+    - name: release from actions
       run: echo "release from actions"
+      shell: bash
