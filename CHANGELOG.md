@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.25](https://github.com/okkez/sandbox-tagpr/compare/v0.0.24...v0.0.25) - 2023-05-28
+### Other changes
+- ci: skip changelog by goreleaser by @okkez in https://github.com/okkez/sandbox-tagpr/pull/26
+
 ## [v0.0.24](https://github.com/okkez/sandbox-tagpr/compare/v0.0.23...v0.0.24) - 2023-05-28
 ### Other changes
 - ci: change changelog config by @okkez in https://github.com/okkez/sandbox-tagpr/pull/24
