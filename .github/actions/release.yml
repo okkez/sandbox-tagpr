@@ -1,0 +1,9 @@
+name: release
+
+runs:
+  using: "composite"
+  steps:
+    - name: release from actions
+      shell: bash
+      run: |
+        echo "release from actions"
