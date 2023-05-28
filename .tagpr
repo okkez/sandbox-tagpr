@@ -3,4 +3,4 @@
     releaseBranch = main
     changelog = false
     release = false
-	versionFile = -
+    versionFile = -
