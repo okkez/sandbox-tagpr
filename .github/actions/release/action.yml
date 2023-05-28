@@ -25,3 +25,5 @@ runs:
     - name: Publish release
       shell: bash
       run: gh release edit --draft=false ${{ inputs.tag }}
+      env:
+        GH_TOKEN: ${{ inputs.token }}
