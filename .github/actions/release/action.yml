@@ -1,5 +1,10 @@
 name: release
 
+inputs:
+  token:
+    description: GitHub token
+    required: true
+
 runs:
   using: "composite"
   steps:
