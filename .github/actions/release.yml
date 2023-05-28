@@ -4,6 +4,5 @@ runs:
   using: "composite"
   steps:
     - name: release from actions
-      run: |
-        echo "release from actions"
+      run: echo "release from actions"
       shell: bash
