@@ -2,6 +2,7 @@ name: release
 
 runs:
   steps:
+    - uses: actions/checkout@v3
     - name: release from actions
       run: |
         echo "release from actions"
