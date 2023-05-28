@@ -16,4 +16,5 @@ jobs:
       - name: release job
         uses: ./.github/actions/release
         with:
+          tag: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
