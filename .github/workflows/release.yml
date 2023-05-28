@@ -15,4 +15,6 @@ jobs:
           echo "this is release action"
       - name: release job
         uses: ./.github/actions/release
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
