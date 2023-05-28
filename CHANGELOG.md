@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.28](https://github.com/okkez/sandbox-tagpr/compare/v0.0.27...v0.0.28) - 2023-05-28
+### Other changes
+- ci: draft release by @okkez in https://github.com/okkez/sandbox-tagpr/pull/32
+
 ## [v0.0.27](https://github.com/okkez/sandbox-tagpr/compare/v0.0.26...v0.0.27) - 2023-05-28
 ### Other changes
 - ci: tagpr release true by @okkez in https://github.com/okkez/sandbox-tagpr/pull/30
