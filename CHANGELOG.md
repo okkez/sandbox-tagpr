@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.30](https://github.com/okkez/sandbox-tagpr/compare/v0.0.29...v0.0.30) - 2023-05-28
+### Other changes
+- ci: keep draft by @okkez in https://github.com/okkez/sandbox-tagpr/pull/36
+
 ## [v0.0.29](https://github.com/okkez/sandbox-tagpr/compare/v0.0.28...v0.0.29) - 2023-05-28
 ### Other changes
 - ci: add token by @okkez in https://github.com/okkez/sandbox-tagpr/pull/34
