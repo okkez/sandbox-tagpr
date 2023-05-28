@@ -22,8 +22,8 @@ runs:
         args: release --clean
       env:
         GITHUB_TOKEN: ${{ inputs.token }}
-    - name: Publish release
-      shell: bash
-      run: gh release edit --draft=false ${{ inputs.tag }}
-      env:
-        GH_TOKEN: ${{ inputs.token }}
+    # - name: Publish release
+    #   shell: bash
+    #   run: gh release edit --draft=false ${{ inputs.tag }}
+    #   env:
+    #     GH_TOKEN: ${{ inputs.token }}
