@@ -1,3 +1,5 @@
 [tagpr]
     vPrefix = true
     releaseBranch = main
+    changelog = false
+    release = false
